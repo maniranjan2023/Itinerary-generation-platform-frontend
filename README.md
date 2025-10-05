@@ -92,6 +92,7 @@ DATABASE_URL="file:./dev.db"
 PORT=5000
 OPENWEATHER_API_KEY=your_openweather_api_key
 BASE_URL=http://localhost:3000
+OPENAI_API_KEY=api_key
 ```
 
 ### 3️⃣ Frontend Setup
@@ -175,12 +176,6 @@ npm run preview # Preview production build locally
 | **Database** | PostgreSQL on Supabase / Neon / Railway |
 
 ---
-
-## 🧑‍💻 Author
-
-**Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [GitHub](https://github.com/yourusername)
 
 ---
 
